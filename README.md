@@ -1,4 +1,4 @@
-# 🌸 Iris Dataset Visualization using Python
+# Iris Dataset Visualization using Python
 
 ## 🚀 Overview
 This project focuses on exploring and visualizing the famous Iris dataset using Python. It demonstrates basic data analysis and visualization techniques to understand patterns in data.
